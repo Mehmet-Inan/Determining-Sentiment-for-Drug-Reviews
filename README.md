@@ -1,4 +1,4 @@
-# Drug-Review-Project
+# Determining Sentiment for Drug Reviews
 This is my personal project in which I will build a model to predict the ratings of the drugs based on the reviews, and will analyze what features of different drugs are most often associated with positive and negative sentiment.
 
 DATA was obtained from the University of California, Irvine Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
